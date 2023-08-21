@@ -1,3 +1,14 @@
+
+####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
+library (usethis)
+create_github_token()
+library (gitcreds)
+gitcreds::gitcreds_set()
+use_github()
+
+
+
+
 library(tidyverse)
 ###para usar phyton inserto
 library(reticulate)
@@ -65,3 +76,4 @@ glm_rs
 
 
 ###evaluando modelos
+333
