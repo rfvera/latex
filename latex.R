@@ -76,4 +76,17 @@ glm_rs
 
 
 ###evaluando modelos
-3333
+
+
+
+
+
+
+
+
+
+
+
+
+
+
